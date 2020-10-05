@@ -131,6 +131,19 @@ files:
 
     TextBasedBrowserTest('browser.browser').run_tests()
   learner_created: false
+- name: browser/web_contenthttpsdocspythonorg
+  visible: true
+  learner_created: true
+- name: tb_tabshttpsbloombergcom
+  visible: true
+  learner_created: true
+- name: browser/web_content/docs.python.org
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/79/stages/440/implement
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/79/stages/440/implement">JetBrains
+    Academy</a>
+  time: Mon, 05 Oct 2020 06:18:18 UTC
+record: 5
